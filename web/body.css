@@ -1,0 +1,63 @@
+.body-container {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.green {
+    color: green;
+}
+
+.reg-form{
+    background-color: beige;
+    padding: 20px 20px;
+}
+
+input[type=date],input[type=text], input[type=tel], input[type=email], input[type=password]{
+ border-radius: 5px;
+ border-color: green;
+ padding: 5px;
+ width: 80%;
+ margin-bottom: 10px;
+}
+
+input[type=submit]{
+    background-color: green;
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+
+fieldset{
+    border-radius: 5px;
+    border-color: green;
+}
+
+fieldset legend{
+    font-size: 1.5em;
+    color: green;
+    margin: 0px 20px;
+}
+
+.logout {
+    color: white;
+    font-size: 25px;
+    background: green;
+}
+
+.reservation-status {
+    color: green;
+    font-size: 25px;
+}
+
+.book-now {
+    color: white;
+    font-size: 25px;
+    background: green;
+}
+
+.cancel {
+    color: white;
+    font-size: 25px;
+    background: green;
+}
